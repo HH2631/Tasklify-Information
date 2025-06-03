@@ -6,7 +6,7 @@
 
 **Transform your productivity with AI-driven task management, smart scheduling, and intelligent insights.**
 
-[Features](#-features) • [Screenshots](#-screenshots) • [Installation](#-installation) • [Usage](#-usage) • [Architecture](#-architecture) • [Contributing](#-contributing)
+[Features](#-features)  • [Usage](#-usage) • [Architecture](#-architecture) • [Contributing](#-contributing)
 
 </div>
 
@@ -87,51 +87,6 @@ Tasklify is a cutting-edge iOS productivity application that harnesses the power
 - **Swift 5.7+**
 - **macOS Monterey 12.0+**
 
-### Setup Instructions
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/tasklify.git
-   cd tasklify
-   ```
-
-2. **Open in Xcode**
-   ```bash
-   open Tasklify.xcodeproj
-   ```
-
-3. **Configure Bundle Identifier**
-   - Update the bundle identifier in project settings
-   - Ensure it matches your Apple Developer account
-
-4. **Set Up Dependencies**
-   - The project uses native iOS frameworks
-   - No external package managers required
-
-5. **Configure AI Services** (Optional)
-   - Add your OpenRouter API key to the configuration
-   - Set up calendar permissions in Info.plist
-
-6. **Build and Run**
-   - Select your target device or simulator
-   - Press `Cmd + R` to build and run
-
-### Quick Start Scripts
-
-We've included helpful scripts to streamline setup:
-
-```bash
-# Fix common build issues
-./fix_bundle_identifier.sh
-
-# Prepare for App Store submission
-./prepare_for_submission.sh
-
-# Update app display name
-./update_app_display_name.sh
-```
-
----
 
 ## 📖 Usage
 
